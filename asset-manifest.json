@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/aeonaxy-internship-project/static/css/main.51024f65.css",
+    "main.js": "/aeonaxy-internship-project/static/js/main.055c0234.js",
+    "static/js/453.14a863e5.chunk.js": "/aeonaxy-internship-project/static/js/453.14a863e5.chunk.js",
+    "static/media/boy.png": "/aeonaxy-internship-project/static/media/boy.42290539a0150a839475.png",
+    "static/media/default.png": "/aeonaxy-internship-project/static/media/default.609914ab208440136af7.png",
+    "static/media/email.png": "/aeonaxy-internship-project/static/media/email.121d3a3db32ef47018a2.png",
+    "index.html": "/aeonaxy-internship-project/index.html",
+    "main.51024f65.css.map": "/aeonaxy-internship-project/static/css/main.51024f65.css.map",
+    "main.055c0234.js.map": "/aeonaxy-internship-project/static/js/main.055c0234.js.map",
+    "453.14a863e5.chunk.js.map": "/aeonaxy-internship-project/static/js/453.14a863e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51024f65.css",
+    "static/js/main.055c0234.js"
+  ]
+}
