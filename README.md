@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://brilliant-genie-f6b199.netlify.app/](https://brilliant-genie-f6b199.netlify.app/)
+[Project](https://polite-bienenstitch-26bf1e.netlify.app/)
 
 <h2>Project Screenshots:</h2>
 
