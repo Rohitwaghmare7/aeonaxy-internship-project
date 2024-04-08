@@ -5,8 +5,8 @@ import CardComponent from "./CardComponent";
 
 const cardImages = [
   "https://i.postimg.cc/6q962DVd/card1.png",
-  "https://i.postimg.cc/wMGKqPwx/card2.png",
-  "https://i.postimg.cc/sx18Nmsk/card3.png",
+  "https://i.postimg.cc/5tGgBT8C/card2.png",
+  "https://i.postimg.cc/XYbgx9Zs/card3.png",
 ];
 
 const headings = [
